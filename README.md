@@ -1,2 +1,3 @@
-# mobile
-A repo for mobile apps
+# mindful
+
+A new Flutter project.
